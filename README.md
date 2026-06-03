@@ -1,5 +1,10 @@
 # vmd-ssa-denoise
 
+[![CI](https://github.com/hhdggzh1990-png/vmd-ssa-denoise/actions/workflows/ci.yml/badge.svg)](https://github.com/hhdggzh1990-png/vmd-ssa-denoise/actions/workflows/ci.yml)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI version](https://img.shields.io/badge/PyPI-0.1.0-orange.svg)](https://pypi.org/project/vmd-ssa-denoise/)
+
 **Adaptive Signal Denoising using VMD Optimized by Sparrow Search Algorithm**
 
 A Python library for intelligent denoising of noisy signals — particularly explosion shockwave signals — using **Variational Mode Decomposition (VMD)** with parameters automatically optimized by the **Sparrow Search Algorithm (SSA)**.
